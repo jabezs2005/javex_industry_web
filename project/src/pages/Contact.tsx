@@ -48,19 +48,19 @@ const Contact: React.FC = () => {
     {
       icon: <Phone className="h-6 w-6" />,
       title: 'Phone',
-      details: ['+1 (555) 123-4567', '+1 (555) 987-6543'],
+      details: ['+91 7305232869'],
       description: 'Mon-Fri from 8am to 6pm'
     },
     {
       icon: <Mail className="h-6 w-6" />,
       title: 'Email',
-      details: ['info@javex.com', 'support@javex.com'],
+      details: ['javexindustry@gmail.com'],
       description: 'Online support'
     },
     {
       icon: <MapPin className="h-6 w-6" />,
       title: 'Office',
-      details: ['123 Business Street', 'Tech City, TC 12345'],
+      details: ['Chennai'],
       description: 'Come say hello'
     },
     {
